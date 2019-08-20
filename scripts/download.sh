@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-J2OBJC_VERSION="2.2"
+J2OBJC_VERSION="2.4"
 J2OBJC_ZIP="j2objc-${J2OBJC_VERSION}.zip"
 J2OBJC_URL="https://github.com/google/j2objc/releases/download/${J2OBJC_VERSION}/${J2OBJC_ZIP}"
 
